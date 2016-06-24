@@ -1,0 +1,25 @@
+{
+  "name": "react-docgen-loader",
+  "version": "2.9.1",
+  "author": "Ge Yang @episodeyang",
+  "description": "react-docgen loader for webpack",
+  "keywords": [
+    "webpack", "webpack-loader", "react-docgen", "es6"
+  ],
+  "peerDependencies": {
+    "react-docgen": "2.9.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/episodeyang/react-docgen-loader.git"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/mit-license.php"
+    }
+  ],
+  "dependencies": {
+    "loader-utils": "^0.2.12"
+  }
+}
