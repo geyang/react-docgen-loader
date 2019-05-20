@@ -8,7 +8,7 @@ npm install react-docgen-loader --save-dev
 ```
 
 ``` javascript
-var docs = require("!!react-docgen!./HappySandwichMaker.js");
+var docs = require("!!react-docgen-loader!./HappySandwichMaker.js");
 // => returns HappySandwichMaker.js documentation object if HappySandwichMaker definition is found
 ```
 
